@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: yellow;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #eee;
+  text-align: center;
+  padding: 10px;
+}
+
+.note {
+  background: #fff;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
